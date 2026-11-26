@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Boomerang.Application/Boomerang.Application.csproj" />
+    <Project Path="src/Boomerang.Domain/Boomerang.Domain.csproj" />
+    <Project Path="src/Boomerang.Infrastructure/Boomerang.Infrastructure.csproj" />
+    <Project Path="src/Boomerang.Presentation.Console/Boomerang.Presentation.Console.csproj" Id="b6e4f850-6362-467b-a271-70a1dbec274e" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Boomerang.Test/Boomerang.Test.csproj" Id="0a3e0d0a-1150-444b-a505-c349e536fd90" />
+  </Folder>
+</Solution>
